@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gunung Tertinggi Di Indonesia</string>
+    <string name="move">Pindah</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="email">danielsitepu96@gmail.com</string>
+    <string name="author_name">Daniel Suranta Sitepu</string>
+    <string name="mountain_name">Nama Gunung</string>
+    <string name="description">Deskripsi</string>
+    <string name="height">Tinggi</string>
+    <string name="place">Tempat</string>
+    <string name="condition">Kondisi</string>
+    <string name="source">Sumber : https://travel.detik.com/domestic-destination/d-4610975/10-gunung-tertinggi-di-indonesia-cocok-untuk-pendaki</string>
+    <string name="location">Lokasi</string>
+    <string name="image">Gambar</string>
+    <string name="img_photo">imagephoto</string>
+    <string name="imageloc">imageLoc</string>
+    <string name="img_height">imageHeight</string>
+    <string name="img_erupt">imageerupt</string>
+    <string name="img_maps">imageMaps</string>
+    <string name="img_search">imageSearch</string>
+    <string name="img_Telegram">imageTele</string>
+    <string name="img_gmail">imageGmail</string>
+    <string name="img_Insta">imageInstagram</string>
+</resources>
